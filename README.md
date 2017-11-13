@@ -23,6 +23,4 @@ I decided to move on because I would need to ask help from someone else to break
 
 Then I practiced making a video play: http://alpha.editor.p5js.org/marynotari/sketches/B1IFjcL1G. I tried to make it play within the canvas but failed.
 
-Then I practiced making a button that would control the video: http://alpha.editor.p5js.org/marynotari/sketches/rklt7BPyf. I figured out how to toggle between the videos in making them play or pause––as long as one of them was playing at all times. 
-
-
+Then I practiced making a button that would control the video: http://alpha.editor.p5js.org/marynotari/sketches/rklt7BPyf. I figured out how to toggle between the videos in making them play or pause––as long as one of them was playing at all times. I tried to take a step back: http://alpha.editor.p5js.org/marynotari/sketches/By_Zhqv1z
